@@ -8,7 +8,7 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/data/en/homepage.yml
-  label: Homepage (en)
+  label: Homepage
 - type: heading
   label: Blog Post
 - type: directory
