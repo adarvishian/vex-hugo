@@ -4,6 +4,8 @@ description = "Team"
 draft = true
 image = ""
 title = "Team"
+[menu.main]
+weight = 5
 
 +++
 This is the team
