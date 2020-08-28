@@ -1,4 +1,4 @@
-baseurl = "https://neuralnotes.netlify.com"
+baseurl = "https://neuralnotes.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
